@@ -23,6 +23,7 @@ void PrimeFactorization(num)
 int main()
 {
   int num;
+  printf("素因数分解したい整数を入力してください：");
   scanf("%d", &num);
   PrimeFactorization(num);
 }

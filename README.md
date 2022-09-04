@@ -24,6 +24,6 @@ PrimeFactorization.c
 ```console
 $ gcc PrimeFactorization.c -o app   
 $ ./app
-1024
+素因数分解したい整数を入力してください：1024
 [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
 ```
